@@ -1,10 +1,19 @@
 import React from 'react'
+import Tilt from 'react-tilt'
+import { motion } from 'framer-motion'
 
-function About() {
+import { styles } from '../styles'
+import { services } from '../constants'
+import { fadeIn, textVariant } from '../utils/motion'
+
+const About=() => {
   return (
-    <div>
-      
-    </div>
+    <>
+      <motion.div>
+        <p >Introduction</p>
+        <h2>Overview</h2>
+      </motion.div>
+    </>
   )
 }
 
