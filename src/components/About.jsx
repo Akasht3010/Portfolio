@@ -44,7 +44,7 @@ const About=() => {
       variants={fadeIn("","",0.1,1)}
       className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum minus nam consequatur fuga ipsam explicabo amet optio unde. Cum minima ab aperiam illum vitae nihil id? In iure suscipit excepturi voluptate eos tempora unde.
+        Hi I am Akash, a passionate web developer with a keen interest in building scalable web applications. I have been working in the web development industry for over 2 years and have worked with a variety of technologies. I am proficient in both front-end and back-end development and have experience working with databases, APIs, and third-party services. I am always looking to learn new technologies and improve my skills. I am currently looking for new opportunities to work on exciting projects and expand my knowledge.
       </motion.p>
       <div className='mt-20 flex flex-wrap gap-10'>
         {services.map((service, index) => (
