@@ -188,12 +188,12 @@ import {
       source_code_link: "https://github.com/Akasht3010/SPAP-FTP",
     },
     {
-      name: "Crud App",
+      name: "Blog App",
       description:
-        "Web application that allows users to create, read, update, and delete records locally using AngularJs.",
+        "Web application that allows users to create, read, update, and delete blog posts.",
       tags: [
         {
-          name: "angular",
+          name: "React",
           color: "blue-text-gradient",
         },
         {
@@ -206,7 +206,7 @@ import {
         },
       ],
       image: Crud,
-      source_code_link: "https://github.com/Akasht3010/Basic-crud-app-in-angular",
+      source_code_link: "https://github.com/Akasht3010/BlogApp",
     },
   ];
   
